@@ -2,7 +2,9 @@
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+
 # Predicting Diabetes using KNeighborsClassifier.
+![accuracy vs n_neighbors graph](https://github.com/SoumyaCO/KNeighbors-classifier-diabetes/blob/main/knn-image.png)
 ### 1. 🎯 Aim: 
 Train a model with the diabetes data to predict a patient has diabetes or not.
 ### 2. 📚 Concepts Covered Here:
