@@ -1,3 +1,7 @@
+<a target="_blank" href="https://colab.research.google.com/github/SoumyaCO/KNeighbors-classifier-diabetes.git">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 # Predicting Diabetes using KNeighborsClassifier.
 ### 1. 🎯 Aim: 
 Train a model with the diabetes data to predict a patient has diabetes or not.
