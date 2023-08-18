@@ -7,7 +7,7 @@
 ![accuracy vs n_neighbors graph](https://github.com/SoumyaCO/KNeighbors-classifier-diabetes/blob/main/knn-image.png)
 ### 1. 🎯 Aim: 
 Train a model with the diabetes data to predict a patient has diabetes or not.
-### 2. 📚 Concepts Covered Here:
+### 2. 📚 Concepts Covered:
 * Data Manupulation
 * Feature Engineering
 * Scaling a dataset
@@ -28,6 +28,8 @@ Train a model with the diabetes data to predict a patient has diabetes or not.
 > * Lastly visualized a accuracy vs n_neighbors plot
 
 👉 In the notebook I've provided detailed codes and concepts. If you like it please give a star ⭐️
+
+❗If you are trying it in **google colab** you have to upload the dataset[dibetes.csv]
 
 🧑🏻‍💻 My Profile:
 > * [🔗LinkedIn ](https://www.linkedin.com/in/soumyadip-bhattacharjya-993974234/)
