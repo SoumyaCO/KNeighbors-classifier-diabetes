@@ -29,7 +29,7 @@ Train a model with the diabetes data to predict a patient has diabetes or not.
 
 👉 In the notebook I've provided detailed codes and concepts. If you like it please give a star ⭐️
 
-❗If you are trying it in **google colab** you have to upload the dataset[dibetes.csv]
+❗If you are trying it in **google colab** you have to upload the dataset [dibetes.csv]
 
 🧑🏻‍💻 My Profile:
 > * [🔗LinkedIn ](https://www.linkedin.com/in/soumyadip-bhattacharjya-993974234/)
