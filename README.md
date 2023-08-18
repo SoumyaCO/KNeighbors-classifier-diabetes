@@ -33,3 +33,4 @@ Train a model with the diabetes data to predict a patient has diabetes or not.
 
 🧑🏻‍💻 My Profile:
 > * [🔗LinkedIn ](https://www.linkedin.com/in/soumyadip-bhattacharjya-993974234/)
+> * [🔗 Kaggle](https://www.kaggle.com/soumyadipbhat)
